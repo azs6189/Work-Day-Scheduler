@@ -30,8 +30,8 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-Link for deployed webpage of My-Portfolio
+Link for deployed webpage of Work-Day-Scheduler
 https://azs6189.github.io/Work-Day-Scheduler/
 
-Screenshot deployed webpage for My-Portfolio
+Screenshot deployed webpage for Work-Day-Scheduler
 ![Work-Day-Scheduler](assets/images/Work-Day-Scheduler.png)
