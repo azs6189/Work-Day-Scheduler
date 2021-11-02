@@ -37,6 +37,7 @@ h1 {
 .row {
 	white-space: pre-wrap;
 	height: 80px;
+	border-top: 1px solid #64a8f0;
 }
 
 .hour {
